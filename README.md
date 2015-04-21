@@ -1,4 +1,4 @@
-# querystring-stable-stringify
+# querystring-stable-stringify [![Build Status](https://travis-ci.org/alanshaw/querystring-stable-stringify.svg)](https://travis-ci.org/alanshaw/querystring-stable-stringify)
 
 Deterministic `querystring.stringify()`.
 
