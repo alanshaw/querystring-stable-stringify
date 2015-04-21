@@ -71,4 +71,8 @@ console.log(stringify(obj1, cmp))
 //       ^   ^   ^         Not equal!
 ```
 
+#### encodeURIComponent
+The function to use to encode URI components (default: [`encodeURIComponent`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent))
+
+Note the behaviour differs from `querystring.stringify` in node/iojs, which uses [`querystring.escape`](https://nodejs.org/api/querystring.html#querystring_querystring_escape)
 
