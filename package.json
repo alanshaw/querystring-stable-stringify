@@ -1,0 +1,23 @@
+{
+  "name": "querystring-stable-stringify",
+  "version": "0.0.0",
+  "description": "Deterministic querystring stringify",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "querystring",
+    "stringify",
+    "stable",
+    "predictable",
+    "deterministic",
+    "hash",
+    "safe"
+  ],
+  "author": "Alan Shaw",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
